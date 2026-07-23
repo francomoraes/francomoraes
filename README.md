@@ -2,7 +2,7 @@
 Software developer since 2022, based in Brazil. Frontend-focused
 (React, TypeScript), now shipping full-stack projects end-to-end.
 
-**Portfolio:** https://franco-moraes.vercel.app/ · **LinkedIn:** https://www.linkedin.com/in/francomoraes
+[**Portfolio**](https://franco-moraes.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/francomoraes)
 
 ---
 
@@ -21,13 +21,13 @@ Vite · Docker · Git · Vitest · Cypress
 
 ## Full-stack projects
 
-**[Invest Tracker](https://investment-tracker-manager.vercel.app/)** —
+- **[Invest Tracker](https://investment-tracker-manager.vercel.app/)** —
 Portfolio management app. React frontend, Node.js/Express API, PostgreSQL,
 JWT auth, live market data integration.
-[Frontend](https://github.com/francomoraes/pocket-folio-lab) ·
-[Backend](https://github.com/francomoraes/asset_breakdown)
+  - [Frontend](https://github.com/francomoraes/pocket-folio-lab)
+  - [Backend](https://github.com/francomoraes/asset_breakdown)
 
-**[Avis-app](http://avis-app.com.br/)** — WhatsApp-based vehicle reminder
+- **[Avis-app](http://avis-app.com.br/)** — WhatsApp-based vehicle reminder
 tool built with Twilio. Calculates IPVA and licensing due dates automatically
 by state and plate, starting with Santa Catarina, with other states rolling
 out next. *(private repo — case study on request)*
