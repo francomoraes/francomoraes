@@ -1,32 +1,39 @@
-## Hi there 👋
+## Franco Moraes
+Software developer since 2022, based in Brazil. Frontend-focused
+(React, TypeScript), now shipping full-stack projects end-to-end.
 
-I'm Franco, a software developer based in Brazil <img src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png" width="18" align="center" />
-
-I mostly work with frontend using ReactJS, Typescript and Tailwind.
-
-I'm starting to get into backend so I can deliver end-to-end solutions and grow as a complete engineer.
+**Portfolio:** https://franco-moraes.vercel.app/ · **LinkedIn:** https://www.linkedin.com/in/francomoraes
 
 ---
 
-## Tools & Tech stack
-- **Frontend:** React, TypeScript, Tailwind
-- **State Management:** Redux, Zustand, Context API
-- **UI Libraries:** shadcn/ui, MUI Material, Tailwind Material
-- **Testing:** Cypress, RTL, Vitest
-- **Tooling:** Vite, CRA, Eslint, Prettier, Docker, Git, Componentization
-- **APIs:** REST APIs
+## Stack
+
+**Frontend**
+React · TypeScript · Tailwind · Redux/Zustand · shadcn/ui · MUI
+
+**Backend**
+Node.js · Express · PostgreSQL · Go (in progress) · JWT auth · REST APIs
+
+**Tooling**
+Vite · Docker · Git · Vitest · Cypress
 
 ---
 
-## Work in progress
-- **Backend fundamentals:** Node, Express, Typescript
-- **Validation:** Zod
-- **Database:** PostgreSQL
-- **API Utilities:** Cors, Helmet
-- **Logging and testing:** Winston, Newman
+## Full-stack projects
+
+**[Invest Tracker](https://investment-tracker-manager.vercel.app/)** —
+Portfolio management app. React frontend, Node.js/Express API, PostgreSQL,
+JWT auth, live market data integration.
+[Frontend](https://github.com/francomoraes/pocket-folio-lab) ·
+[Backend](https://github.com/francomoraes/asset_breakdown)
+
+**[Avis-app](http://avis-app.com.br/)** — WhatsApp-based vehicle reminder
+tool built with Twilio. Calculates IPVA and licensing due dates automatically
+by state and plate, starting with Santa Catarina, with other states rolling
+out next. *(private repo — case study on request)*
 
 ---
 
-## Working towards
-- Becoming an end-to-end developer
-- Solving real world issues
+## Currently
+Deepening backend fundamentals (Go, system design) to work as a full-stack
+engineer on international remote teams.
