@@ -31,7 +31,7 @@ JWT auth, live market data integration.
 tool built with Twilio. Calculates IPVA and licensing due dates automatically
 by state and plate, starting with Santa Catarina, with other states rolling
 out next.
-  - [Monorepo](https://github.com/francomoraes/francomoraes/blob/main/avis-case-study.md)
+  - [Case Study](https://github.com/francomoraes/francomoraes/blob/main/avis-case-study.md)
 
 ---
 
